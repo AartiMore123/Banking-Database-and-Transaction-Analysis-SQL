@@ -233,33 +233,33 @@ Generated customer segmentation for business strategy.
 
 ### Total Customers
 
-![Query 1](Query_Screenshots/query1.png)
+![Query 1](query1.png)
 
-**Description:** Displays the total number of customers in the banking database.
+**Description:** This query calculates the total number of customers present in the banking database. It helps in understanding the size of the customer base and overall business reach.
 
 ---
 
 ### Total Transactions
 
-![Query 2](Query_Screenshots/query2.png)
+![Query 2](query2.png)
 
-**Description:** Shows the total number of transactions performed by customers.
+**Description:** This query displays the total number of transactions performed by customers. It is useful for measuring transaction activity and customer engagement.
 
 ---
 
 ### Branch-wise Transaction Analysis
 
-![Query 3](Query_Screenshots/query3.png)
+![Query 3](query3.png)
 
-**Description:** Displays total transaction amounts for each branch to identify high-performing branches.
+**Description:** This query analyzes transaction amounts across different branches. It helps identify high-performing branches and supports branch performance evaluation.
 
 ---
 
 ### Gender-wise Transaction Analysis
 
-![Query 4](Query_Screenshots/query4.png)
+![Query 4](query4.png)
 
-**Description:** Compares transaction amounts between male and female customers.
+**Description:** This query compares transaction amounts between male and female customers. It helps understand customer transaction behavior based on gender demographics.
 
 ---
 
