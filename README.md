@@ -228,6 +228,41 @@ Evaluated transaction trends over time.
 
 Generated customer segmentation for business strategy.
 
+
+## 📷 Query Execution Screenshots
+
+### Total Customers
+
+![Query 1](Query_Screenshots/query1.png)
+
+**Description:** Displays the total number of customers in the banking database.
+
+---
+
+### Total Transactions
+
+![Query 2](Query_Screenshots/query2.png)
+
+**Description:** Shows the total number of transactions performed by customers.
+
+---
+
+### Branch-wise Transaction Analysis
+
+![Query 3](Query_Screenshots/query3.png)
+
+**Description:** Displays total transaction amounts for each branch to identify high-performing branches.
+
+---
+
+### Gender-wise Transaction Analysis
+
+![Query 4](Query_Screenshots/query4.png)
+
+**Description:** Compares transaction amounts between male and female customers.
+
+---
+
 📁 Project Structure
 
 
